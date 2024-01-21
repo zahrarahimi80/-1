@@ -1,1 +1,1 @@
-I am Zahra Rahimi a software student and i am providing you the codes for simulating the vacuum cleaner project in python.
+I am Zahra Rahimi a software student and I provide you the code for simulating a vacuum cleaner and designing a graphic game with the turtle library in python.
